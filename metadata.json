@@ -1,0 +1,6 @@
+{
+  "name": "SmartBet V9.2 - Global Signal Engine & E2E Security",
+  "description": "Enterprise-grade RNG signal intelligence, site legitimacy verification, E2E encrypted data vault, and 3D interactive tactile telemetry engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
